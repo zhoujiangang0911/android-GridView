@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">a01c10</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_grid_view1">ShowGridView1</string>
+    <string name="title_activity_gv1">Gv1</string>
+    <string name="title_activity_show_view1">ShowView1</string>
+
+</resources>
